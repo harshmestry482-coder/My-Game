@@ -10,3 +10,10 @@
 *.sln
 *.log
 *.slnx
+.idea/
+.vscode/
+*.csproj
+MemoryCaptures/
+Recordings/
+*.apk
+*.aab
